@@ -215,6 +215,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [visual-storyteller](./plugins/visual-storyteller)
 - [whimsy-injector](./plugins/whimsy-injector)
 - [claude-bionify](./plugins/claude-bionify)
+- [brilliant-design](https://github.com/brilliant-hq/brilliant-mcp) - Design with your agent on Brilliant's real vector canvas: screens, components and design systems you both edit, reviewed visually, exported as code. Install: `/plugin install brilliant-design --marketplace brilliant-hq/brilliant-mcp`
 
 ### Development Engineering
 - [claude-sounds](https://github.com/culminationAI/claude-sounds)
